@@ -2,7 +2,7 @@
 
 --[[ The onLoad event is called after the game save finishes loading. --]]
 function onLoad()
-    print('buy22123123123123112!')
+    print('bu')
 end
 
 --[[ The onUpdate event is called once per frame. --]]
